@@ -1,0 +1,1560 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : cWord
+ major_version : 28
+ minor_version : 0
+ type : 4
+ description : ""
+ subtype : 0
+class :
+ identifier : 0x3adbf686139be212
+ internal_properties : CAAAAAgAAAB2/vstTMCJbS/hlxjFxirSqKvCUuv8YxgpWyl7S3iA
+ code_elements :
+  internal_properties : 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
+  type_code : 10
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACVvFSm8V+Ml7/EpR9wbGAlFAb0Wie1GWnRmlxqNqHPATCFHS0MG6m/AhFKY23EIbQbx8H3hP36B1BBpZYP3/fMge1ZEdgPKbdVxgJ34X/OpX8sVb9RRynYcWI/mbevtggtYcZ0fifD6jYRTXZLwuCI/z6ybsiBqoJ3cOi9mQ8aGQ==
+     code : |1-
+      cWord is Class
+      	m_pautWord is object OLE dynamic	// Pointer to active object
+      	m_nVersion is int  			// Version of Word installed on the computer
+      	m_sCurrentDoc is string		// Current document
+      END
+      
+      // set to true to display the errors
+      CONSTANT 
+      	CST_DEBUG=False
+      	
+      	CST_PAGE = "PAGE"
+      	CST_FULLSCREEN = "FULLSCREEN"
+      	CST_WEB = "WEB"
+      	CST_PLANE = "PLANE"
+      	CST_MASTER = "MASTER"
+      	CST_DRAFT = "DRAFT"
+      	
+      	CST_LEFT = "LEFT"
+      	CST_RIGHT = "RIGHT"
+      	CST_CENTER = "CENTER"
+      	CST_JUSTIFY = "JUSTIFIED"
+      	
+      	CST_NONE = "NONE"
+      	CST_BLACK = "BLACK"
+      	CST_BLUE = "BLUE"
+      	CST_GREEN = "GREEN"
+      	CST_RED = "RED"
+      	CST_YELLOW = "YELLOW"
+      	
+      	CST_wdDefaultDocumentFormat = 16 // Word default document file format. For Word 2010, this is the DOCX format.
+      	CST_wdExportPDFFormat = 17
+      	
+      END
+     type : 131072
+   -
+     code : |1-
+      
+     type : 131074
+  procedures :
+   -
+     name : Constructor
+     internal_properties : CAAAAAgAAAAtr+Y1pK5NvRCJb6XkgllTrK9rUz4FwY3hBTV+b+Mcr6RyZcQ5crtjoFViX4W3AuMMKqPMoV6SdZkJh4BqRmOyud0ZypW+uEXXK+jNRvEIQw6xyI0DZh/u9mp2TrEIFlI5jFJoIPWJBJsCATvbBFMpqMikm4HpmG9mA2dlLnGC+06Uhn3gbfzpNqsc8ENFXVBDV4Cs9dKlZPWMOqXsV6SIzEJtihTO6MCDLGFZXtORI3hiYh2F3pqHfJRViBAhaMw5AFy7SadZqjmuOVOeCGaU0jo7ZbPH9tvQEbPbX1wNVO2TURQMcVk1UsA83cIj2lYNwg4=
+     procedure_id : 4241254531330007580
+     type_code : 27
+     code : |1-
+      PROCEDURE Constructor(bRecycle=False)
+      // if bRecycle=True, use Word that is already opened
+      
+      // check whether Word is found and retrieve its version
+      nVersion is int
+      nVersion = :nVersionOffice("Word")
+      IF nVersion = 0 THEN
+      	EndProgram(<§$0000§>,False)
+      	RETURN
+      END
+      IF nVersion < 8 THEN
+      	EndProgram(<§$0001§>,False)
+      	RETURN	
+      END
+      
+      // version of Word
+      :m_nVersion = nVersion
+      
+      // if Word is not already allocated
+      IF :m_pautWord = Null THEN
+      	// if the user wants to reuse Word that is already opened
+      	IF bRecycle THEN
+      		
+      		:m_pautWord = GetActiveObject("Word.Application")
+      		IF :m_pautWord = Null THEN
+      			// no Word was already opened, allocate one 
+      			:m_pautWord = new object OLE "Word.Application"
+      		END
+      	ELSE
+      		
+      		// allocate a new one
+      		:m_pautWord = new object OLE "Word.Application"
+      	END
+      END
+      
+      :m_pautWord>>visible=False
+     type : 589824
+   -
+     name : Destructor
+     procedure_id : 4241254529813045788
+     type_code : 28
+     code : |1+
+      PROCEDURE Destructor()
+      
+      IF :m_pautWord<>Null THEN
+      	:Exit()
+      	Multitask(-30)
+      
+      	// free the pointer
+      	delete :m_pautWord
+      END
+     type : 655360
+   -
+     name : Display
+     internal_properties : CAAAAAgAAAC2+dEtbtPVGUaNDgeMcs0iNE0gT7U8YDQBFcEp203zkagmlHw5ChsGv22Nt1evetcA5tRYZSR18h/HA7YrlIVl3H4xLNR329cKKH3hJN8zJGyj3DxCCqdJPhcpLQrlFqxOIW/3idBO5exnIo7ZAHJAC7lppbX8wGJkiZVa5KT2SdlE6korARkJa8yMyotzV3w1/EskGc7HYYFwz0y8BqGy
+     procedure_id : 4241254531537887792
+     type_code : 12
+     code : |1+
+      // Summary: Used to define the display mode in Word
+      // Syntax:
+      // Display (<sMode>)
+      //
+      // Parameters:
+      // 	sMode: Display mode of the document in Word: PAGE, FULLSCREEN, WEB, PLANE, MASTER, DRAFT
+      // Return value:
+      // 	None
+      
+      PROCEDURE Display(sMode)
+      
+      WHEN EXCEPTION IN
+      	SWITCH Upper(sMode)		
+      	
+      		CASE ::CST_PAGE
+      			IF :m_pautWord>>ActiveWindow>>View>>SplitSpecial = 0 THEN // wdPaneNone
+      				:m_pautWord>>ActiveWindow>>ActivePane>>View>>Type = 3 // wdPageView
+      			ELSE
+      				:m_pautWord>>ActiveWindow>>View>>Type = 3 // wdPageView
+      			END
+      						
+      		CASE ::CST_FULLSCREEN
+      			:m_pautWord>>ActiveWindow>>View>>Type = 7
+      						
+      		CASE ::CST_WEB
+      			:m_pautWord>>ActiveWindow>>View>>Type = 6 // wdOnlineView
+      			
+      		CASE ::CST_PLANE
+      			:m_pautWord>>ActiveWindow>>ActivePane>>View>>Type = 2 // wdOutlineView
+      			
+      		CASE ::CST_MASTER
+      			:m_pautWord>>ActiveWindow>>ActivePane>>View>>Type = 5 // wdMasterView
+      			
+      		CASE ::CST_DRAFT
+      			:m_pautWord>>ActiveWindow>>ActivePane>>View>>Type = 1 // 
+      			
+      		OTHER CASE
+      			IF :m_pautWord>>ActiveWindow>>View>>SplitSpecial = 0 THEN // wdPaneNone
+      				:m_pautWord>>ActiveWindow>>ActivePane>>View>>Type = 1 // wdNormalView
+      			ELSE
+      				:m_pautWord>>ActiveWindow>>View>>Type = 1 // wdNormalView
+      			END
+      	END
+      	
+      DO
+      	:ErrorMsg(<§$0002§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Align
+     procedure_id : 4241254531397182081
+     type_code : 12
+     code : |1+
+      // Summary: Used to define the horizontal alignment of the text
+      // Syntax:
+      // Align (<sAlignment>)
+      //
+      // Parameters:
+      // 	sAlignment: Requested alignment: LEFT, CENTER, RIGHT, JUSTIFIED
+      // Return value:
+      // 	None
+      
+      PROCEDURE Align(sAlignment)
+      
+      nAlignConstant is int  
+      SWITCH Upper(sAlignment)
+      	CASE ::CST_LEFT
+      		nAlignConstant = 0 // wdAlignParagraphLeft
+      	CASE ::CST_CENTER
+      		nAlignConstant = 1 // wdAlignParagraphCenter
+      	CASE ::CST_RIGHT
+      		nAlignConstant = 2 // wdAlignParagraphRight
+      	CASE ::CST_JUSTIFY
+      		nAlignConstant = 3 // wdAlignParagraphJustify
+      	OTHER CASE 
+      		nAlignConstant = 0 // wdAlignParagraphLeft
+      END					
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// perform the requested alignment	
+      	:m_pautWord>>Selection>>ParagraphFormat>>Alignment = nAlignConstant
+      DO
+      	:ErrorMsg(<§$0004§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : Preview
+     internal_properties : CAAAAAgAAADVy/s77h/jHQbuyCKSN+j51dLXkXXEyKQRG3dZMM48rDQ7TZeSIwynq/CtklgU0CFYGvhxTQK2Ub5QZEA9o4RHUtfl6N/JUUE9M5SXK2GYa/JEd00uhMALFMoiOLmicA3Afsia23AT03COKbOQDcLTgwbSEO8okWA+DvTfWSonIuovOSCxlY71EgF0bu58bIBAxA==
+     procedure_id : 4241254530272846525
+     type_code : 12
+     code : |1+
+      // Summary: Opens the print preview for the current document
+      // Syntax:
+      // Preview ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Preview()
+      
+      WHEN EXCEPTION IN
+      	// open the print preview
+      	:m_pautWord>>ActiveDocument>>PrintPreview()
+      DO
+      	:ErrorMsg(<§$0005§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : NonPrintChar
+     procedure_id : 4241254530906120913
+     type_code : 12
+     code : |1+
+      // Summary: Displays/Hides the non-printable characters
+      // Syntax:
+      // NonPrintChar (<nParam>)
+      // Parameters:
+      // 	nParam: nParam = -1, switch from a mode to the other one
+      // nParam = 0, hide the non-printable characters
+      // nParam = 1, display the non-printable characters
+      // Return value:
+      // 	None
+      
+      PROCEDURE NonPrintChar(nParam)
+       
+      // in nParam = -1, switch from one mode to another
+      // if nParam = 0, hide the non-printable characters
+      // if nParam = 1, display the non-printable characters
+      
+      WHEN EXCEPTION IN
+      	SWITCH nParam
+      		// the non-printable characters are displayed
+      		CASE 1
+      			:m_pautWord>>ActiveWindow>>ActivePane>>View>>ShowAll = True
+      		// the non-printable characters are hidden
+      		CASE 0
+      			:m_pautWord>>ActiveWindow>>ActivePane>>View>>ShowAll = False
+      		// switch from hidden to visible
+      		CASE -1
+      			:m_pautWord>>ActiveWindow>>ActivePane>>View>>ShowAll = NOT :m_pautWord>>ActiveWindow>>ActivePane>>View>>ShowAll 
+      	END
+      
+      DO
+      	:ErrorMsg(<§$0006§>,ExceptionInfo())	
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Paste
+     internal_properties : CAAAAAgAAACKaSGjoyJY9Ubh5pgxmF+Y5V6uz+NEz+62h4SXQNgeyoyTMyZGNgbmdmyGXjpd71g/0g1q4uG5pBe4Mu0a9ZB5nI/mRpgt1Sg88de+gA9qXb6ycHT8z8IwuPSX4ijhSamWulunh0WhrpagTv8J+mMZqyi9xTfpzRGmAKu/gEqJEBU9fjKVQJjmgZEOG+3D0TbygHxPVqDVlT54O90Be/E=
+     procedure_id : 4241254530370953997
+     type_code : 12
+     code : |1+
+      // Summary: Pastes the content of the buffer
+      // Syntax:
+      // Paste ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Paste()
+      
+      WHEN EXCEPTION IN
+      	// "Paste" method of Word
+      	:m_pautWord>>Selection>>Paste()
+      DO
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Copy
+     internal_properties : CAAAAAgAAABTUXGqzMW915qI/F7s4Ry9aYTPqX9ebm5lPRtpjnzEtAwxpXc89YJx/xohzvKOTM0sZGRd14TcN5JSuOSHLQzHIuW5LCnDv/cxBtmKwMwtToc7fEgrh90W7RXfOxZ1Hehh0dEBbK8Eev0FUoopRJ8OREGbR6B/ervneUmC1t1oUcsaMqcqZN9cH/gdta/77gbGQg==
+     procedure_id : 4241254530192696187
+     type_code : 12
+     code : |1+
+      // Summary: Copies the selection
+      // Syntax:
+      // Copy ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Copy()
+      
+      WHEN EXCEPTION IN
+      	// "Copy" method of Word
+      	:m_pautWord>>Selection>>Copy()
+      DO
+      	RETURN
+      END
+     type : 458752
+   -
+     name : Checker
+     internal_properties : CAAAAAgAAADIL2dhYtxKxR7pDv5tRo9MCH7OL4Nkzy4Wh8T3oDheKqxz04bmVgamlmwGfpp97zifcm0KwsH5ZLf4sg16VdDZfC8GpvgNFehc8VdeYO+qjc5CgERMH/LASOSnEnhxmVmmSut311WR/mbQXm+ZirPJe3jNFQe5vWG2cDsvkFpZQKVNDgLlUMh2UUFeSz3TLnOxwTVmQasAWCVheZ/DuTM=
+     procedure_id : 4241254530222711685
+     type_code : 12
+     code : |1+
+      // Summary: Calls the spelling checker of Word
+      // Syntax:
+      // Checker ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Checker()
+      
+      WHEN EXCEPTION IN
+      	// Call the spelling checker of Word
+      	:m_pautWord>>ActiveDocument>>CheckSpelling()
+      DO
+      	:ErrorMsg(<§$0007§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : Color
+     procedure_id : 4241254530961761177
+     type_code : 12
+     code : |1+
+      // Summary: Changes the color of the selection
+      // Syntax:
+      // Color ([<sTextColor> [, <sBackgroundColor>]])
+      //
+      // Parameters:
+      // 	sTextColor (default value="BLACK"): Color of the font
+      // 	sBackgroundColor: Background color
+      // Return value:
+      // 	None
+      
+      PROCEDURE Color(nTextColor = -1, nBrushColor = -1)
+      
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	IF nTextColor <> -1 THEN 
+      		// Assign the requested text color
+      		:m_pautWord>>Selection>>Font>>Color = nTextColor
+      	END
+      	
+      	// Background color
+      	IF nBrushColor <> -1 THEN
+      		// Assign the requested text color
+      		:m_pautWord>>Selection>>Range>>HighlightColorIndex = :nColorConst(nBrushColor)
+      	END
+      	
+      DO
+      	:ErrorMsg(<§$0008§>,ExceptionInfo())	
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Cut
+     internal_properties : CAAAAAgAAADjgYEaXFlNfxrgTIZUydy1iURfeZ+mxp79vfPJLix8RMTpXR8UpRKJP3Ih9moGTMWs1MQ99zykF1oSEASXTfR3Oo3hNAGzj78xuhVO/LBJUoOPCLy3+xkaSZlLjzJ5mXydlY1FKOPQvmmJPu5VSIsicHWH6/zT1h9j7TWWghHEJecO3psmWLuwu3y5uR9rfpZ28g==
+     procedure_id : 4241254531532579787
+     type_code : 12
+     code : |1+
+      // Summary: Performs a "cut" of the selection
+      // Syntax:
+      // Cut ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      PROCEDURE Cut()
+      
+      WHEN EXCEPTION IN
+      	// "Cut" method of Word
+      	:m_pautWord>>Selection>>Cut()
+      DO
+      	RETURN
+      END
+     type : 458752
+   -
+     name : WriteLine
+     procedure_id : 4241254534621291497
+     type_code : 12
+     code : |1+
+      // Summary: Inserts a line at cursor location
+      // Syntax:
+      // WriteLine (<sLine>)
+      //
+      // Parameters:
+      // 	sLine: Text to write
+      // Return value:
+      // 	None
+      
+      PROCEDURE WriteLine(sLine)
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// write the text passed in parameter
+      	:m_pautWord>>Selection>>Text=sLine
+      DO
+      	:ErrorMsg(<§$0009§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : Save
+     internal_properties : CAAAAAgAAACnkabtwVoUEmuw277gq2ipJ7FU4IjxE9+b1vcsBEHXPwWwJvQjLAExHM/fIDyKDe47jtKMoLhkhoTbih82iniSC8NGtdOeMgIqLMQerHxCiNl7Sm1Q1fCBdj4HXkUjkUIzB3EDYPtqBsjqG0A=
+     procedure_id : 4241254534808134653
+     type_code : 12
+     code : |1+
+      // Summary: Saves the current document
+      // Syntax:
+      // Save ([<sDocumentName>])
+      //
+      // Parameters:
+      // 	sDocumentName: selected name for the document (optional)
+      // Return value:
+      // 	None
+      
+      PROCEDURE Save(sDocumentName="")
+      
+      // if there is no current document
+      IF (:m_sCurrentDoc~="" AND sDocumentName~="") THEN
+      	:SaveAs()
+      ELSE
+      	
+      	WHEN EXCEPTION IN
+      		// save the document
+      		IF sDocumentName<>"" THEN
+      			:m_pautWord>>ActiveDocument>>SaveAs(sDocumentName, ::CST_wdDefaultDocumentFormat)
+      			:m_sCurrentDoc=sDocumentName
+      		ELSE
+      			:m_pautWord>>ActiveDocument>>SaveAs(:m_sCurrentDoc, ::CST_wdDefaultDocumentFormat)
+      		END
+      		
+      	DO
+      		:ErrorMsg(<§$000a§>,ExceptionInfo())
+      		RETURN		
+      	END
+      END
+     type : 458752
+   -
+     name : SaveAs
+     internal_properties : CAAAAAgAAAAMT68ZckNEZ6vuiCrUYuC+S7LUvsMRkSR8adrpthFXvZad+rLUvAxkRkU9FeNBibfE8ql6vmDbUWy8eXjFSCMtb5ehtLl26vCOgWt0kI4kCgQCbAUPP/tpfGY9gmxKiSoENDnc8t1cVyroahXjf5vIucYv9JizwEAaVHv9Or0VT7G7EDNIcukvUXVuCbgr6z9gGav/UBGswqw++95U0c1J+A==
+     procedure_id : 4241254534178399339
+     type_code : 12
+     code : |1+
+      // Summary: "Save" but with a selector
+      // Syntax:
+      // SaveAs ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE SaveAs()
+      
+      sDocumentName is string
+      
+      // Select or create a Word file
+      sDocumentName = fSelect("","",<§$000b§>,	"Word document (*.docx)" + TAB + "*.docx" + CR + "Word 97 document - 2003 (*.doc)" + TAB + "*.doc", "*.docx",	fselCreate+fselExist)
+      
+      // No selected file
+      IF sDocumentName="" THEN RETURN
+      
+      // Save the document
+      :Save(sDocumentName)
+      
+      // this document becomes the current document
+      :m_sCurrentDoc = sDocumentName
+      
+     type : 458752
+   -
+     name : CloseDoc
+     procedure_id : 4241254534084486311
+     type_code : 12
+     code : |1+
+      // Summary: Closes the current document
+      // Syntax:
+      // CloseDoc ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE CloseDoc()
+      
+      
+      WHEN EXCEPTION IN
+      	// Close the active window
+      	:m_pautWord>>ActiveWindow>>Close(True)
+      DO
+      	:ErrorMsg(<§$000d§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // no other current document
+      :m_sCurrentDoc=""
+     type : 458752
+   -
+     name : MergeMailshot
+     procedure_id : 4241254535075521733
+     type_code : 12
+     code : |1+
+      // Summary: Prepares the data for a mailshot
+      // Syntax:
+      // MergeMailshot (<sData>, <sDocData>, <sModelDoc>, <sMergedDoc>)
+      //
+      // Parameters:
+      // 	sData: Contains the data separated by TAB characters
+      // 	sDataDoc: Document that will contain the Data
+      // 	sModelDoc: Document that contains the document model
+      // 	sMergedDoc: Merged document
+      // Return value:
+      // 	None
+      
+      PROCEDURE MergeMailshot(sData, sDataDoc, sModelDoc, sMergedDoc)
+      
+      // create a document
+      :NewDoc()
+      Multitask(-30)
+      
+      // write the information in text format 
+      // the details are separated by TAB characters
+      :WriteLine(sData)
+      Multitask(-30)
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// convert them into array
+      	:m_pautWord>>Selection>>ConvertToTable(1)
+      	Multitask(-30)
+      	
+      	// go to the end
+      	:m_pautWord>>Selection>>EndKey(6)
+      	Multitask(-30)
+      DO
+      	:ErrorMsg(<§$000e§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // save it
+      :Save(sDataDoc)
+      Multitask(-30)
+      
+      // close it
+      :CloseDoc()
+      Multitask(-30)
+      
+      //open the template document
+      :OpenDoc(sModelDoc)
+      Multitask(-30)
+      
+      WHEN EXCEPTION IN
+      	
+      	//Define the data source for the mailshot
+      	:m_pautWord>>ActiveDocument>>MailMerge>>OpenDataSource(sDataDoc) 
+      	
+      	// prepare the mailshot to a new document
+      	:m_pautWord>>ActiveDocument>>MailMerge>>Destination=0
+      	Multitask(-30)
+      
+      	// merge to a new document
+      	:m_pautWord>>ActiveDocument>>MailMerge>>Execute(False) 
+      
+      	Multitask(-30)
+      	
+      DO
+      	:ErrorMsg(<§$000f§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // save the merged document
+      :Save(sMergedDoc)
+      Multitask(-30)
+      
+      // close the 2 documents 
+      :CloseDoc()
+      :CloseDoc()
+      
+      
+     type : 458752
+   -
+     name : Weight
+     procedure_id : 4241254533882832200
+     type_code : 12
+     code : |1+
+      // Summary: Modifies the weight of the font
+      // Syntax:
+      // Weight ([<nBold> [, <nItalic> [, <nUnderline>]]])
+      //
+      // Parameters:
+      // 	nBold: 1: bold, 0: normal, -1: switch the style
+      // 	nItalic: 1: italic, 0: normal, -1: switch the style
+      // 	nUnderline: 1: underlined, 0: normal, -1: switch the style
+      // Return value:
+      // 	None
+      
+      PROCEDURE Weight(nBold="", nItalic="", nUnderline="")
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// Bold
+      	SWITCH nBold
+      		CASE 1
+      			:m_pautWord>>Selection>>Font>>Bold = True
+      		CASE 0
+      			:m_pautWord>>Selection>>Font>>Bold = False
+      		CASE -1
+      			:m_pautWord>>Selection>>Font>>Bold = 9999998 // wdToggle
+      	END
+      
+      	// Italic
+      	SWITCH nItalic
+      		CASE 1
+      			:m_pautWord>>Selection>>Font>>Italic = True
+      		CASE 0
+      			:m_pautWord>>Selection>>Font>>Italic = False
+      		CASE -1
+      			:m_pautWord>>Selection>>Font>>Italic = 9999998 // wdToggle
+      	END
+      
+      	// Underline
+      	SWITCH nUnderline
+      		CASE 1
+      			:m_pautWord>>Selection>>Font>>Underline = 1
+      		CASE 0
+      			:m_pautWord>>Selection>>Font>>Underline = 0
+      		CASE -1
+      			// we switch
+      			IF :m_pautWord>>Selection>>Font>>Underline = 1 THEN
+      				:m_pautWord>>Selection>>Font>>Underline = 0
+      			ELSE
+      				:m_pautWord>>Selection>>Font>>Underline = 1
+      			END			
+      	END
+      
+      DO
+      	:ErrorMsg(<§$0010§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      
+      
+     type : 458752
+   -
+     name : Print
+     internal_properties : CAAAAAgAAAApT99B0sN3bYa6qErme8TNlWaPoeEI7ISJT39hNDJoIOTvjR8u72gH20yVwoRQnG0wlnAxmY4Scc5sLDBJH7iDqgPdMAOV9TElsV4NPZ9SQfwSacugCnqZxhAk/qPooiPKZMIAbeZtQYJ0C5laM6TJXQR0Dun2U8ZQFDbd+9jxABwVE9bzS9ijrE/OhMAayFy8uA==
+     procedure_id : 4241254534354036150
+     type_code : 12
+     code : |1+
+      // Summary: Prints the current document
+      // Syntax:
+      // Print ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Print()
+      
+      WHEN EXCEPTION IN
+      	// Call the print feature of Word
+      	:m_pautWord>>Application>>PrintOut()
+      DO
+      	:ErrorMsg(<§$0011§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : InsertDate
+     internal_properties : CAAAAAgAAADdK31StFp9j6XtXB91nSpab1ZzRHWO8iajW0TjLYG1Dd+dlxnhPgzS8aFcpjFzVvWowJkdbAl3e6C5gvHc4/5w5dYRcspSIqvWREYGT71GexerErdWQtZyqPp05lswYnumnoTegUq5pS7KlRfSy5bXe7hgEu/g6QSS1BQ3450tfZKMutb47v8kcEjgTqQUI7bqPi2ofibVAVeTDgKXxRiwT3xXZqc8gjt5xSYyi7mWiLBE
+     procedure_id : 4241254534483797450
+     type_code : 12
+     code : |1+
+      // Summary: Inserts the system date at cursor location
+      // Syntax:
+      // InsertDate ([<sFormat>])
+      //
+      // Parameters:
+      // 	sFormat (default value="MM/DD/YYYY"): Format of the date to insert (dddd d MMMM yyyy for Monday 5 February 2001, MM/dd/yyyyy for 02/05/2001 ...)
+      // Return value:
+      // 	None
+      
+      PROCEDURE InsertDate(sFormat="MM/DD/YYYY")
+      
+      // Adopt the format of Word
+      sFormat = Replace(sFormat, "J", "j")
+      sFormat = Replace(sFormat, "m", "M")
+      sFormat = Replace(sFormat, "A", "a")
+      
+      // if it's Word 2000 or 2007 -> US format
+      IF :m_nVersion = 9 OR :m_nVersion = 12  THEN
+      	sFormat = Replace(sFormat, "j", "d")
+      	sFormat = Replace(sFormat, "a", "y")
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// insert the date
+      	:m_pautWord>>Selection>>InsertDateTime(sFormat, False)
+      DO
+      	:ErrorMsg(<§$0012§>,ExceptionInfo())	
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : InsertTime
+     internal_properties : CAAAAAgAAABTUXGq7MV9VxoIPN5sYRz9aURPqX+ebi4l/ZspTrwENMwxZbf89ULx/xphzvKOzA0spGRdV8Rcd1ISOCRH7czHYuV57OnDf3cx5nnqYCzNLicbnKjL5332jXX/GzZVvcgBMXHhjI+kWh3l8urJpL/uZKG7p0BfmpuH2Wni9r2IsWv60odKRH88P9i9lc/77gbGQg==
+     procedure_id : 4241254534542911012
+     type_code : 12
+     code : |1+
+      // Summary: Inserts the system time at cursor location
+      // Syntax:
+      // InsertTime ([<sFormat>])
+      //
+      // Parameters:
+      // 	sFormat (default value="H:MM:SS"): Format of the time to insert (for example, H:MM:SS for 12:34:20 ...)
+      // Return value:
+      // 	None
+      
+      PROCEDURE InsertTime(sFormat="H:MM:SS")
+      
+      
+      // Adopt the format of Word
+      sFormat = Replace(sFormat, "H", "h")
+      sFormat = Replace(sFormat, "M", "m")
+      sFormat = Replace(sFormat, "S", "s")
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// insert the date
+      	:m_pautWord>>Selection>>InsertDateTime(sFormat, False)
+      DO
+      	:ErrorMsg(<§$0013§>,ExceptionInfo())	
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : InsertImage
+     internal_properties : CAAAAAgAAAAjQcFabDnNXxoAjMZ0iRyVaUR/Gf9GBr79nbNJjuy8JKRpfT/0hVIpP5KhtsoGzGXMFGRd15zkN5pyUMS3DTTXWk3BFKHTj18x6mX+TGAZgpP/mKzHK6lK2QnbPwJpKewthR01OJPgbvn5Tp6l+NvSgGWXW4wD5s/znQUG0sGUVfd+bgu2yAsgyywJqS+rvla2sg==
+     procedure_id : 4241254533891286624
+     type_code : 12
+     code : |1+
+      // Summary: Inserts an image at cursor location
+      // Syntax:
+      // InsertImage (<sImageFile>)
+      //
+      // Parameters:
+      // 	sImageFile: Image file to insert
+      // Return value:
+      // 	None
+      
+      PROCEDURE InsertImage(sImageFile)
+      
+      // Check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)
+      	RETURN
+      END
+      
+      nWidth is int
+      nHeight is int
+      sInfo is string
+      sInfo = BitmapInfo(sImageFile)
+      nWidth = ExtractString(sInfo,2)
+      nHeight = ExtractString(sInfo,3)
+      
+      WHEN EXCEPTION IN
+      	//:m_xWord>>ActiveDocument>>Shapes>>AddPicture(sImageFile, False, True,:m_xWord>>Selection>>Range())
+      		
+      	:m_pautWord>>ActiveDocument>>Shapes>>AddPicture(sImageFile, False, True,...
+      	*,*,*,*,:m_pautWord>>Selection>>Range())
+      DO
+      	:ErrorMsg(<§$0014§>,ExceptionInfo())
+      	RETURN	
+      END
+      
+     type : 458752
+   -
+     name : InsertLink
+     procedure_id : 4241254535728653960
+     type_code : 12
+     code : |1+
+      // Summary: Inserts an hypertext link at cursor location
+      // Syntax:
+      // InsertLink (<sAddress> [, <sLocation>])
+      //
+      // Parameters:
+      // 	sAddress: Address to which points the Hypertext link
+      // 	sLocation (optional): Precise point of the document (ex: anchor)
+      // Return value:
+      // 	None
+      
+      PROCEDURE InsertLink(sAddress, sLocation="")
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	:m_pautWord>>ActiveDocument>>Hyperlinks>>Add(...
+      	:m_pautWord>>Selection>>Range,...
+      	sAddress,...
+      	sLocation)
+      	
+      DO
+      	:ErrorMsg(<§$0015§>,ExceptionInfo())	
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : InsertTable
+     procedure_id : 4241254534116533926
+     type_code : 12
+     code : |1+
+      // Summary: Inserts an array of nNbRows and nNbColumns
+      // Syntax:
+      // InsertTable (<nNbRows>, <nNbColumns>)
+      //
+      // Parameters:
+      // 	nNbRows: Number of rows that must be crated for the array
+      // 	nNbColumns: Number of columns that must be crated for the array
+      // Return value:
+      // 	None
+      
+      PROCEDURE InsertTable(nNbRows, nNbColumns)
+      
+      WHEN EXCEPTION IN
+      	// Insert a table containing nNbLines lines and nNbColumns columns
+      	:m_pautWord>>ActiveDocument>>Tables>>Add(:m_pautWord>>Selection>>Range,...
+      	nNbRows, nNbColumns)
+      DO
+      	:ErrorMsg(<§$0016§>,ExceptionInfo())
+      	RETURN	
+      END
+      
+     type : 458752
+   -
+     name : nColorConst
+     internal_properties : CAAAAAgAAAD83x+pWtTYpxVOgBKG0liMEf6EvC11B3CCeSb9cK3vR7S3kvjmmGJc3EG1/TmhiTHyBDW0ePQJjYaEzeQ3lOeD+ZHZkmOC2PhUPYNcrp68XGfvwbIUomBiX6f2WwUrllnLXVLNC3TdzKGdnyqYqIhrCNfIfdmCYWV5qYASd3L+gliMUXyx6ToEfGYHkjGsMPilJL7qI+ZPzaHF1BbEQV3ZaA==
+     procedure_id : 4241254534864561860
+     type_code : 12
+     code : |1+
+      // Summary: Returns the constants corresponding to the color passed in parameter
+      // Syntax:
+      // [ <Result> = ] nColorConst (<sColor>)
+      //
+      // Parameters:
+      // 	sColor: Color whose "Word" value must be found
+      // Return value:
+      // 	integer: "Word" value of the color
+      
+      PROCEDURE nColorConst(sColor)
+      
+      nColor is int
+      
+      SWITCH sColor
+      	CASE ::CST_NONE // in case of a background color
+      		nColor = 0 //wdAuto
+      	CASE ::CST_BLACK
+      		nColor = 1 //wdBlack
+      	CASE ::CST_BLUE
+      		nColor = 2 // wdBlue
+      	CASE ::CST_GREEN
+      		nColor = 4 // wdBrightGreen
+      	CASE ::CST_RED
+      		nColor = 6 // wdRed
+      	CASE ::CST_YELLOW
+      		nColor = 7 // wdYellow
+          OTHER CASE 
+      		nColor = sColor
+      END
+      
+      RESULT nColor
+      
+     type : 458752
+   -
+     name : NewDoc
+     procedure_id : 4241254533862254336
+     type_code : 12
+     code : |1+
+      // Summary: Creates a new document
+      // Syntax:
+      //NewDoc ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE NewDoc()
+      
+      
+      
+      WHEN EXCEPTION IN
+      	// Opens a new document
+      	:m_pautWord>>Documents>>Add()
+      DO
+      	:ErrorMsg("Unable to open a new document.",ExceptionInfo())
+      	RETURN
+      END
+      
+      // this document has no name yet
+      :m_sCurrentDoc = ""
+      :m_pautWord>>visible=True
+     type : 458752
+   -
+     name : nVersionOffice
+     internal_properties : CAAAAAgAAAAykX9y6Z7XZsLxfHOsaSzvJNp4a80oLvn40yJEMDZPQ09rNrA1weYGQE33UHA7sdCzt8z7We8a+ecf0T77IgFiOMFC8JMqQY5M9IJZjGAvZlp7SLYBhorMxTFAlW9R6IdD61AzqdZTqlvZU5IQWKDLrB12PUEqAd2P2bCE8VKZFy8b8O803i1z9dX2VVt8XswbdxjITWQJP0MHKpvpfE0At8Zj+x3ONsIQOBHanT3PKyo=
+     procedure_id : 4241254535076505364
+     type_code : 12
+     code : |1+
+      // Summary: Check the presence of an Office software (Word, Excel ...) and find its later version
+      // Syntax:
+      // [ <Result> = ] nOfficeVersion (<sProgram>)
+      //
+      // Parameters:
+      // 	sProgram: Name of the program (Word, Excel,...)
+      // Return value:
+      // 	integer: 0 if the software is not found, version number if it is found
+      
+      PROCEDURE nVersionOffice(sProgram)
+      
+      sKey, sSubKey are strings
+      nVersion is int = 0
+      
+      // check whether Office is installed
+      sKey = RegistryFirstSubKey("HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\")
+      
+      // if Office is not installed on the computer, then Word cannot be found either
+      IF sKey~="" THEN RESULT 0
+      
+      // if Office is installed on the computer, check the presence of the program
+      WHILE sKey<>""
+      	// First sub-key of the program
+      	sSubKey = RegistryFirstSubKey(sKey+"\"+sProgram+"\")
+      	// if the program is found, retrieve its version
+      	IF sSubKey<>"" THEN
+      		// keep the most recent version only
+      		nVersion = Max(Val(ExtractString(sKey,1,"\",FromEnd)),nVersion)
+      	END
+      	// Next key
+      	sKey = RegistryNextKey(sKey)
+      END
+      
+      RESULT nVersion
+      
+     type : 458752
+   -
+     name : OpenDoc
+     internal_properties : CAAAAAgAAADWIUmL2vaFR9OGSLZc3sAaoyequbPRUfQseXop9hH3XbZNquLE7FwEBgVtxbNxWWcU0im6XuBbIRwM2bgF6MPtT8cxpClmuhCuoRvk4D5UWuxqVB3n98PR9A5VOjQSsQIMPKF0atVEv6Jw4o0LJ0Ngwc63DHDrCAjSvNO1wgV9B9kD2IvgynEXqX1mgVCG1vUCv1FFHqPe3JaM6B6iY7OzQg==
+     procedure_id : 4241254534235088760
+     type_code : 12
+     code : |1+
+      // Summary: Opens a document
+      // Syntax:
+      // OpenDoc ([<sDocToOpen>])
+      //
+      // Parameters:
+      // 	sDocToOpen: Document to open ; a picker is opened if it is not passed in parameter yet
+      // Return value:
+      // 	None
+      
+      PROCEDURE OpenDoc(sDocToOpen="")
+      
+      IF sDocToOpen="" THEN
+      	// Select or create a Word file
+      	sDocToOpen=fSelect("","",<§$0018§>,"Word document (*.docx)" + TAB + "*.docx" + CR + "Word 97 document - 2003 (*.doc)" + TAB + "*.doc", "*.docx",fselOpen)
+      
+      	// No selected file
+      	IF sDocToOpen="" THEN RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// open the document passed in parameter
+      	:m_pautWord>>Documents>>Open(sDocToOpen)
+      DO
+      	:ErrorMsg(<§$0019§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // this document becomes the current document
+      :m_sCurrentDoc = sDocToOpen
+      
+      :m_pautWord>>visible=True
+     type : 458752
+   -
+     name : Font
+     procedure_id : 4241254539305150389
+     type_code : 12
+     code : |1+
+      // Summary: Modifies the selected text
+      // Syntax:
+      // Font ([<sFont> [, <nSize> [, <bBold> [, <bItalic> [, <bUnderline> [, <sTextColor> [, <sBackgroundColor>]]]]]]])
+      //
+      // Parameters:
+      // 	sFont: Name of the selected font
+      // 	nSize (default value=0): Size of the selected font
+      // 	bBold: Weight of the font
+      // 	bItalic: Italic of the font
+      // 	bUnderline: Underlined of the font
+      // 	sTextColor: Color of the text
+      // 	sBackgroundColor: Background color
+      // Return value:
+      // 	None
+      
+      PROCEDURE Font(sFont="", nSize=0, bBold <useful>="", bItalic <useful>="", bUnderline <useful>="", nTextColor=-1, nBrushColor=-1)
+       
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// Assign the font and the size 
+      	IF nSize>0 THEN
+      		:m_pautWord>>Selection>>Font>>Size = nSize	                      
+      	END
+      	IF sFont<>"" THEN
+      		:m_pautWord>>Selection>>Font>>Name = sFont
+      	END
+      DO
+      	:ErrorMsg(<§$001a§>,ExceptionInfo())
+      	RETURN	
+      END
+      
+      
+      :Color(nTextColor, nBrushColor)
+     type : 458752
+   -
+     name : Exit
+     internal_properties : CAAAAAgAAAB21c2F3nmgD6zfwMJ7sin+JlBiyanoj+hMPfLPzkhgSMDdn8iccu7IREIYpoAF/bJbNLn8hCHVTp0GzLWgdZaPwNlygK4RDR6eY6VCGqOkZlnTWbtzNhUbVyG0D608vgLhc5zWZkSkQX3Vc4iqIVSuXkkeFMb48CiBCbQ4kTFiLYCuJ9kgf9tJLEq3vKYiHb5qdGiDViBJ/dRD9TF9/3U=
+     procedure_id : 4241254538367657959
+     type_code : 12
+     code : |1+
+      // Summary: Exits from Word
+      // Syntax:
+      // Exit ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Exit()
+      
+      WHEN EXCEPTION IN
+      	
+      	
+      	// Exit from Word
+      	:m_pautWord>>Quit(False,False,False)
+      DO
+      	:ErrorMsg(<§$001b§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : FindReplace
+     internal_properties : CAAAAAgAAADMCer8JjCsCTXL84hKE2jbwIXikeusNxpUP5p0b6VhxiFiiKffAU+8yR5dS2u7G+z5lhRoGoAeNxD57rujtjQLTfdQoSq52RuSOVv7YIlRWLaS/OUn979FfFhn2Ios/4SumBWOTFtyRcISxG0rPQ267fBR7qpBBt7shi2HTIwKERTpZDQIEm+1Bhc5TlyAz5mI
+     procedure_id : 4241254538932840443
+     type_code : 12
+     code : |1+
+      // Summary: Calls the find/replace feature of Word
+      // Syntax:
+      //FindReplace (<sSoughtString>, <sStringThatWillReplace>)
+      //
+      // Parameters:
+      //	sSoughtString: Sought string
+      //	sStringThatWillReplace: String that will replace the other one
+      // Return value:
+      // 	None
+      
+      PROCEDURE FindReplace(sSoughtString, sStringThatWillReplace)
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection>>Find>>Execute(sSoughtString,False,True,False,False,False,True,1,False,sStringThatWillReplace,2)
+      	//   1: WdFindContinue 
+      	//   2: WdReplaceAll 
+      DO
+      	:ErrorMsg(<§$001c§>,ExceptionInfo())
+      	RETURN	
+      END
+      
+     type : 458752
+   -
+     name : Rulers
+     procedure_id : 4241254539305871405
+     type_code : 12
+     code : |1+
+      // Summary: Displays/Hides the rulers
+      // Syntax:
+      // Rulers ([<bStatus>])
+      //
+      // Parameters:
+      // 	bStatus (default value=1): True to display them  
+      // Return value:
+      // 	None
+      
+      PROCEDURE Rulers(bStatus=True)
+      
+      
+      WHEN EXCEPTION IN
+      	// enable/disable the rulers
+      	IF bStatus THEN
+      		:m_pautWord>>ActiveWindow>>ActivePane>>DisplayRulers = True 
+      	ELSE
+      		:m_pautWord>>ActiveWindow>>ActivePane>>DisplayRulers = False 
+      	END
+      
+      DO
+      	:ErrorMsg(<§$001d§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : IsVisible
+     internal_properties : CAAAAAgAAABoUdPnOc4H8rTZ+KM2uVS1ij5Q/bq0qrUEF4bEfFbzk3uTjtDpIcoSlLHjoDTDxcCHXywjdb/OleNjFf6/on3y1Pn6mD/CdYoYeD6JYFCrdoaTeA51Fn64U5PqXxE/8vk5jQKNS9RZqEGzZQyK3trNmmdI52MY1zMNmzquCyirIeU1ilkepEt52+/ox8UqCHZBGaq6X3rX7Tkh9HHmMUJFjNF2xggbTTWtb+4XSGfTYeA=
+     procedure_id : 4241254538485033035
+     type_code : 12
+     code : |1+
+      // Summary: Used to define the visibility of Word
+      // Syntax:
+      //IsVisible ([<bStatus>])
+      //
+      // Parameters:
+      //	bStatus (default value=1): True: it will be visible, False: it will be invisible
+      // Return value:
+      // 	None
+      
+      PROCEDURE IsVisible(bStatus=True)
+      
+      WHEN EXCEPTION IN
+      	IF bStatus THEN
+      		// Word is visible
+      		:m_pautWord>>visible=True
+      	ELSE
+      		// Word is not visible
+      		:m_pautWord>>visible=False
+      	END
+      
+      DO
+      	:ErrorMsg(<§$001e§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Zoom
+     procedure_id : 4241254538793183337
+     type_code : 12
+     code : |1+
+      // Summary: Performs a zoom on the current document
+      // Syntax:
+      // Zoom (<nRatio>)
+      //
+      // Parameters:
+      // 	nRatio: Selected zoom  (for example: 75 for 75%)
+      // Return value:
+      // 	None
+      
+      PROCEDURE Zoom(nRatio)
+      
+      
+      WHEN EXCEPTION IN
+      	// run the requested zoom
+      	:m_pautWord>>ActiveWindow>>ActivePane>>View>>zoom>>Percentage = nRatio
+      DO
+      	:ErrorMsg(<§$001f§>,ExceptionInfo())	
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : PrepareMailshot
+     internal_properties : CAAAAAgAAADIi+wfzsZL71XmMEI+oqD8iYxAvi2dF/hiQVYdSL0HV+zH0vhu2Do8tLEtpckpCamSXE2M2Mx59RYsbRTv1I+jwQG58vuCYDh8LbtEzvb8dJOzrbYYZlS+48Pav0HnGqVn0U4x74iheBX5M65ElNyXhGtE8V1WhWF95fR2k87irrSgjUAlXe6Q0BJL5v1iytRxyNrOh7rzCeWByZ/FDBENPA==
+     procedure_id : 4241332848606519175
+     type_code : 12
+     code : |1-
+      // Summary: Prepares the mailshot
+      // Syntax:
+      // PrepareMailshot (<sData>, <sDocData>, <sModelDoc>)
+      //
+      // Parameters:
+      // 	sData: Data separated by TAB characters
+      // 	sDataDoc: Document that will contain the data
+      // 	sModelDoc: Document that contains the document model
+      // Return value:
+      // 	None
+      
+      PROCEDURE PrepareMailshot(sData, sDataDoc, sModelDoc)
+      
+      // Create a document
+      :NewDoc()
+      Multitask(-30)
+      
+      // write the information in text format 
+      // the details are separated by TAB characters
+      :WriteLine(sData)
+      Multitask(-30)
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautWord>>Selection	
+      DO
+      	Info(<§$0003§>)	
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// convert them into array
+      	:m_pautWord>>Selection>>ConvertToTable(1)
+      	Multitask(-30)
+      
+      	// go to the end
+      	:m_pautWord>>Selection>>EndKey(6)
+      	Multitask(-30)
+      DO
+      	:ErrorMsg(<§$0020§>)
+      	RETURN
+      END
+      
+      // save it
+      :Save(sDataDoc)
+      Multitask(-30)
+      
+      // close it
+      :CloseDoc()
+      Multitask(-30)
+      
+      // create a document
+      :NewDoc()
+      Multitask(-30)
+      
+      WHEN EXCEPTION IN
+      	// "Standard Letter" document
+      	:m_pautWord>>ActiveDocument>>MailMerge>>MainDocumentType = 0 //wdFormLetters
+      
+      	// Data source
+      	:m_pautWord>>ActiveDocument>>MailMerge>>OpenDataSource(sDataDoc)
+      	Multitask(-30)
+      DO
+      	:ErrorMsg(<§$000f§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // Select or create a Word file
+      sModelDoc=fSelect("","",<§$0021§>,...
+      						<§$000c§>+TAB+"*.DOC","DOC",...
+      						fselCreate+fselExist)
+      
+      // Name of the template document
+      IF sModelDoc<>"" THEN
+      	// save it
+      	:Save(sModelDoc)
+      	Multitask(-30)
+      END
+      
+      // close it
+      :CloseDoc()
+      Multitask(-30)
+     type : 458752
+   -
+     name : ErrorMsg
+     procedure_id : 4315235212685142387
+     type_code : 12
+     code : |1-
+      // Summary: Managing the error messages
+      // Syntax:
+      //ErrorMsg (<sLine1> [, <sLine2> [, <sLine3>]])
+      //
+      // Parameters:
+      //	sLine1: Line 1 of the error
+      //	sLine2 (default value=""): Line 2 of the error
+      //	sLine3 (default value=""): Line 3 of the error
+      // Return value:
+      // 	None
+      
+      PROCEDURE ErrorMsg(sLine1, sLine2="", sRow3="")
+      
+      IF ::CST_DEBUG THEN
+      	Error(sLine1, sLine2, sRow3)
+      END
+     type : 458752
+   -
+     name : ExportPDF
+     procedure_id : 1730793772290320527
+     type_code : 12
+     code : |1-
+      // Summary: Used to export the document in PDF format
+      // Syntax:
+      //ExportPDF (<sPDFDocName> is string)
+      //
+      // Parameters:
+      //	sPDFDocName (ANSI string): Path of PDF file to save
+      // Return value:
+      // 	None
+      
+      PROCEDURE ExportPDF(sNameDocPDF is string)
+      
+      
+      WHEN EXCEPTION IN
+      	:m_pautWord>>ActiveDocument>>ExportAsFixedFormat(sNameDocPDF, ::CST_wdExportPDFFormat, False) 
+      DO
+      	:ErrorMsg("Unable to export the document in PDF.",ExceptionInfo())
+      	RETURN 
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3be2cb9a2cdc0dc1
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : "Word is not installed on this computer, you cannot use this class!"
+     index : 0
+   -
+     text :
+      en-GB : "To use this class, Word 97 or later must be installed!"
+     index : 1
+   -
+     text :
+      en-GB : Unable to modify the display mode.
+     index : 2
+   -
+     text :
+      en-GB : Select a section of text.
+     index : 3
+   -
+     text :
+      en-GB : Unable to apply the alignment.
+     index : 4
+   -
+     text :
+      en-GB : Unable to display the preview.
+     index : 5
+   -
+     text :
+      en-GB : Unable to hide/display non-printable characters.
+     index : 6
+   -
+     text :
+      en-GB : Unable to open the spelling checker.
+     index : 7
+   -
+     text :
+      en-GB : Unable to modify the color.
+     index : 8
+   -
+     text :
+      en-GB : Unable to write the line.
+     index : 9
+   -
+     text :
+      en-GB : Uanble to save the document.
+     index : 10
+   -
+     text :
+      en-GB : Save as...
+     index : 11
+   -
+     text :
+      en-GB : Word document (*.docx)
+     index : 12
+   -
+     text :
+      en-GB : Unable to close the document.
+     index : 13
+   -
+     text :
+      en-GB : Unable to convert into table.
+     index : 14
+   -
+     text :
+      en-GB : Unable to perform mailshot.
+     index : 15
+   -
+     text :
+      en-GB : Unable to apply the style.
+     index : 16
+   -
+     text :
+      en-GB : Unable to print the document.
+     index : 17
+   -
+     text :
+      en-GB : Unable to insert the date.
+     index : 18
+   -
+     text :
+      en-GB : Unable to insert the time.
+     index : 19
+   -
+     text :
+      en-GB : Unable to insert the image.
+     index : 20
+   -
+     text :
+      en-GB : Unable to insert the link.
+     index : 21
+   -
+     text :
+      en-GB : Unable to insert the array.
+     index : 22
+   -
+     text :
+      en-GB : Select a document...
+     index : 24
+   -
+     text :
+      en-GB : Unable to open the document.
+     index : 25
+   -
+     text :
+      en-GB : Unable to apply the font.
+     index : 26
+   -
+     text :
+      en-GB : Unable to close the application.
+     index : 27
+   -
+     text :
+      en-GB : Unable to perform Find/Replace.
+     index : 28
+   -
+     text :
+      en-GB : Unable to enable/disable the rulers.
+     index : 29
+   -
+     text :
+      en-GB : Unable to make the application visible/invisible.
+     index : 30
+   -
+     text :
+      en-GB : Unable to apply the zoom.
+     index : 31
+   -
+     text :
+      en-GB : unable to convert into array
+     index : 32
+   -
+     text :
+      en-GB : Enter the name of your model
+     index : 33
+   -
+     text :
+      en-GB : Do you want to save the current document?
+     index : 34
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

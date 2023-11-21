@@ -1,0 +1,138 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Controlling Word
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Controlling Word project
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Controlling Word
+    internal_properties : CAAAAAgAAAC2X14y20aZ0Z36XJWn4DNGK3HKbeHRAV2D4HW0K+gwBlDaFnuatyONW3t7CrfM1Y8FTIIlxE/08UEzK4NTDQpxRII0sbUiyTU3ByK3rlo4Kjx0YiDOjqq8S/Jb5YauLBeqLzGSNDHJyf5Psk3Qm1zGlLTVavINI6k+7Zwj0C8j5aXtvDG3yDIbHWFj2gtEWo1iFpGP0sAu10fc2B6zJZSO+J3P+t9ZcJ1+ixyg33YV2rW+F6kv7a2zcVO0qrCgtHRHxU8GMh9XU1b1RzpRSpAYSice/ViA7+IHaqi8rFgb4g3SfUeC9oQL0yMWxP67ZovHu97RSiJ6LKex9X5m9JItBwcAtXiCC6lP5UOZ9+8VYfbpd2LbiGL/8R+p+hYjnZJjnHAtutx9VmBwUxDjx7jKuNqNSoDiAP5ndL1XLVKUoqcK7LZueJ6vopHTc/ZJxokC2lpDZzjasiVS0KWeNgxWnsCrgl5EjWdhDUo2F+r9STqgLTdlucXtyuHaueclh3bIkcTXr8Nft79A621wieOcmF/8RTNO8aR4jCZvUwd6hcuqX6PQbPOeQ3X+OxaBny/yzI1wds4bvGJsIkbwFcCzWXlsthe/GwaAI1h4WZRA4OMkfH/0VpqaokZl1XYJ9/9JXb+hmgJCXDo3SpmLGqKUmZymHESCNYs4w55/kKNxOksVty9E37LN0aXoItYKEyQLioUESX5k2Kkmqr+FJ1z7qU25aEKLfGsElhxHbj8ZP6XOJVYTahoX8SPuySh8c+VGJUne5v6TpB7LGAI9nYEVmAMr9omm74mzkCcIFJZ0Y2woaxR9xcvjhCkteya34ELNJV+hW89mGoFPl9sWF3FdBzvURzPJ2IUlKQyBh4r0Ka0UwOec58EL1kP1BEVOUzFPPnwC8w+9pqyC0mbrWTeyZPyUWi4QJv+YfF0zvQ7c+ejGxKu84uDt1bHEkhJFZHp0G1Ecyt3R6WmpY8jIf9myY2ELLGFuIRLBGARpGzZxP6Ysgh0oBx9W0PjEEZYmMizA631jyA3drolr5Lopa3aX/uyvivCxMvKSQS/oikcVbgzw0wZFxymKoG3rqr+frSpNWZnFuRM1GTF3o9jc003U6kIm7lKMYZQmWoMzYgY4nMK0lpD0FPYm10FiWhdBTUAZwPTaNwPru87SAjz5A+0v8Ewn4mwVBPslJ7MoQ8Gxt9qzQXeyfyBmJVoL4phxxJsMxDFv6UtfOv5vXHYq0oOvhOmZHF+ICLdkHIWwP1u7SfQ0Qjmi2ZGgMNimtcJS1wJYvP4SU56mYpi34BYI/TWV+n+RfaI/woDD25oDf6Q1oOXKnXKNIq6/a7iWBfsrAPhL7FeQbuhX7bievp39e5XPsy12QPLnSZUFa4DimGkSUkMRoO5S1zSYqnSciDFSSD9Pz1CwwmS0/bztW3BHDpJw70vo+kQ90zaMt8A27Wt7f0Yx9TA1465gcuzt0iW7eKNxwBl81Vml3xjYrgjsl16gdqz0MV5e8jhS0P0qeqmkLaJcvGwySkZyhaR1giCHvEO1QPbn/vbwjjhm53By6mUE5bhZW9ew6ke+NR680/Xq+Kc3LWqWjDMev+/UlMCyt0EgOFeK6GNedzj6+SFjTzTdiAAKKbmwf31+SQrmmnZimrVapB4CYj1L/WzrET5Ii3WNl+NuQjVuMLpYgcqjQRV2iiQBmRPeRVF2iuzgLSzbbvCl3Fh823PbsqnwOkbP12RlzPHtwX7P3Zj73LCDvg4JwPktTnIIVcuHm1mBSiaA/Qt3nQYwfSrDe76iII1nHuSa8/kHKYGuy6xyXqjZSgOIZrdhxeIlDDuttC9KnDbl9aw0Hl18qZlx+7VgUxZKj3yRFe6XcSbeIUFQdgcHplc5aLxP82zc48YETmZB2HmXsxjZQOst9Ui+Km4BqgCQ0vSAf3MzmokkAVqFXozaAGsVbF5bkZv3EXRurAP3jh7V9AsHAjFFgpyi6h8fvAtyWs0GdrHtdmxAvjR5kgdklC81NGRc0VkISU6zBwwIrg5yXpDYeoCL5j2kTmM/2RriMArT9UzROOp6kp9s+Atvo7GxwboxYLh63OPx3NlaD63ZEuEOgVRlIreDAP0MGflPTrQ4cjbjOjipTS3pnWNkVKaVZUJJvDesVJ/3RgBbDrUj9vQGlT5qvJAAI+X9IAAwo2wmeP1x4FH6tSbC1xWx+InI7+4DbnmQqjY9Huucl/cUd02DadVJax3j98cFdqN8MseuDKYYB9RVEUVHFGHxkIbXD+XsIXPpOaV8ZeIGNg2qP32ettYOUrKoXD23MwGkci+TtC8wkQOElQ0GZmo5tDltZZy+mEBaDbuz7i80F6UGBr2tPP/1I7SA/14QHzHaRV2ghzpqYNHybVCCT1aSqOf1HuUXMvio4JTbZGWO+RBq3dqpUIKW9EKEBhKAOCNoT7UiiVySrzahmMx1r3PvHgMGIvWVoA8kNLqM6mg3nCSNsKuF4+XqJp05ijrIkIX1iZxEp45Ajeqzib3+asTUY4F3aN9pckQzBfl39mK0FWqf114u6WHmgo4o8pYo4SDKlPk0pyBgqZTieb/mN66m6Sz1QM7DsE6AI50FjnXFDQ6Dyd24e2N4N9Z5LcSKhje4ikPlYnWlKdSPJvRbWlWwY3o2Zbq3UwmXo0nGxddpR06o3Bqc04zGzwahRpLGTvlyzlYmaTHCsjXuRTvaWlZbFVnZ7IRDm4pVZG4Ifo2TnxSgFUYSFVlor1g3EOlCw7vGKiZYfyIwyBAb4rDs0w6PcYUlGzR4SkF8+ILeiSueEGBY0QImqUGcWamBXzo7cMFOrYQXFiQ3GxhikrwWfOx1NnuxEl863Xw3NP+IbFLeSwCGeLUsPw0ipzpXK1qc6tOeMy3oTYHgeNsN79gmig74cnSInc3UV1KraOghnCb4apOpl1Pub329NlhMonBuUNHvHB9825l5TmCY/g9qqi7wgCwhdz3YKs/ssY/kJ8uS4Jd69blAC81NeIJVP5yTbquuLihzh5rkrNqOYPuIdjt8Ar5xj/tmrq6rbbo74ioYAIFx49xCG48JDH/8sJbgvkv9tqrOrIhGovP4c5Tw4Bjl92sv2A/KGahREWABwD8PNAsvmk9CrzsbvDFDwVEXyb+u7O1hba1TGUbG2NcMjokmHxY1XsScclaBsATi8WCnJNI2Tpdjrk7YTxBYHnuEJBHNX2aGjYiDO3fFWQDzz4mjcEedYscXl2EfqMGh8Hhs3WfvdTh+iXDX2ma48ryoGAuspCoulcdO3BxokpnuaAQpgFcbvtMFSee4kzFT4lBuE9FyQuIu6RLaAYvBhZIQoMv0mpLxAF8927zqfOHnMwnP4Jj2Y3YXNyLWb0MVZNaKZxh6uv2yhTpELdBKWjGK1hK91cpztvackqLTJ0ae0hlSTegtlCjcdlyWm/rdkMEBqlb3Zb2DXrU92jrAaLoPjcjBZ1Ysj4dVsQNksh34hM9tIBLkxVuq3FtpbpF5wEtfWPy9p+Hu+cuIA641YWvMDACIYNWdQav7M4O0Tq0e/NFsyaqRApFF1Fd+udrnDgeZll+D6b/kx/rwocnqrtqrRfvdSflXwnq0XDM2zBeZD/IEcdeUjyNSsJsCrUYYx0hosQEh+69hAfB9rPhNA+JVpyK2FAsYx8fzM8pXjwoe5oXSv/Q3qIUnx+KT9A2NvPKtigE2Gk75vCofJok6dJAakgD+IpXg+3IZn3JAJj1KPlziI+tOEzAcHpsi58nRREs1gjSwRGhXcmXI6Z0AgAxzCTmqdmnlrMWagDQRkZgl/2yrLKukia6FjY5k7waMRw/cSfHFkwGQY55FYh3+nvoKwkD6gH4vkn0pv9a41nwGAoBWfdOoXfPh+asGyyVtJK8yl1a00M834tukowgkHgVfuesRdbuoEy+oxNDGjC1qej+AqbcUaXjlScfb3i8Ur2+CFxLZr42vzq/IJalNpzpyMhg1WQtZ/FfUluHLQ5sTv41BRFWKlymlFQgf9o33ysnXONgQbLMV6I5UZTYhU1nekj62aBmSZVPn4VpxPY+rURjFyigeN1MJXZrLKvvZrDhckXZuyt+kx0HLaipUki6XyQrClJh6XWU25qnp/Zsz3UFSOVNMDeGx4fzsj6Msr9Lz/CbY/CzM13wyoYFjqVWp/0OWsisonzojE1t+gJ8mYonM6yyDPtI4PhOU5/VGZWk2B0l/XbXJIJ9qN+7JafQ7oVp6hjpFbHvxfT165MVpn1SDJip94gbFyX0OvdQ+WAf7FB7No8cF7IEw98XIMiANfzD/M+rMTzzZk4Yvd93JGboOk4NCC10bb9kngJryBTO/jCc75dwMm5oHzJPNTuOuihA28CMl3JOgDs86pFB0YOGj4TAzSuI8skP3bn2cz4RjRN/9a3oi1atCJ4h7ywY78W/2vm5yle8jBZFagPgXffsGl2G2L0708o295H6+GcLZUnjYCW7PLR1sIw5qsEVV+yoU3oydDJND0yWBvgqHA3v2HpzpaAAxZUR/ExrO4YV1JbrtlBi6qM2epm4ALvJ7HmDLYQQJg1q25rk34+vJsJNjAB+KTWNJmrBi74gqxHy4WTgCRlIXDTTB8Jsckz/onRMdbp38p9Uw+UPthSdxdvqo2qLjmOpDiyqetEGkl49iI1D36jBAF04+GSLxjdmlGwqIcS7zhcMUpZ42RMkyajb4ve93IPNEBqxoTRFE/yEJi/yLXdd9w4gf+oBzhwzlK/KWdp5aMXys6mBh/eFNMUcMvlvJjyHsyo9veLtA9ysfX7y3ivoXAuWJXLK4y4H6RpqyeRS7DVsXLY1j+6xFVFQ+1gLbx42OeZ2rBaJbfSDETXo=
+    configuration_id : 2240250973996407476
+    type : 1
+    generation_name : WD Controlling Word.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     autoincrement_version : false
+    icon_filename : .\word.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4ac3821a024aea86
+  elements :
+   -
+     name : WIN_WordWizard
+     identifier : 0x3dd14f8023c19c3b
+     internal_properties : CAAAAAgAAADLRzPX1JGZQgwH1wgWVi6yqeiQCOtgaUj++odv6HKgSOBwHPAi3mOVbdTOKurmkgbOVg==
+     physical_name : .\WIN_WordWizard.wdw
+     type : 2
+   -
+     name : cWord
+     identifier : 0x3dd14f7b26869bcd
+     internal_properties : CAAAAAgAAAD3U9/D4F3V1uCrC6zqq7bC8YKsHNYZzNOCRVFy8HuTRfsRp2W+egc5wXhiXibaphriYg==
+     physical_name : .\cword.wdc
+     type : 4
+   -
+     name : WIN_SelColor
+     identifier : 0x400bc302000355b9
+     internal_properties : CAAAAAgAAAA1ER0BvpuTTBoB7QIYOtxk45bC6t+uxmmgXOqZwk5E9AgkTMBQ6GmbZ97YIOAQ6NggIA==
+     physical_name : .\WIN_SelColor.wdw
+     type : 2
+   -
+     name : GlobalProcedures
+     identifier : 0x3dd14f8176c19c4a
+     internal_properties : CAAAAAgAAAAeBHYqmcZuAcnEkFXDFvXtaC9nf+NX36HR9als3W6mqqq03q5lkx7OqpEL9b0zz8ELCw==
+     physical_name : .\GlobalProcedures.wdg
+     type : 7
+   -
+     name : WIN_MailshotWizard
+     identifier : 0x3dd14f7c54539bec
+     internal_properties : CAAAAAgAAAAlIQ0RrstjfMrxXZKIzKgYO1pyag3j6XGp8/kiClC6vl7minKgWNkLl44I8LAg2MgwMA==
+     physical_name : .\WIN_MailshotWizard.wdw
+     type : 2
+   -
+     name : WIN_Word
+     identifier : 0x496e27170000a572
+     internal_properties : CAAAAAgAAADsasTQ75ScTxsC0gsRBt9TdgkVhVzxbTP6fynVBAYWwn6cOsJX4WCQaN/ZJ+/hmQ/5eQ==
+     physical_name : .\WIN_Word.wdw
+     type : 2
+   -
+     name : TEST_MailshotWizard
+     identifier : 0x40e6faf900d47c24
+     internal_properties : CAAAAAgAAAD8WtTA/6QMHysS4jthN89DQgcBEZCy02dP7OvPhYuJt3WJKdNH8XCgeK8plx/RqR/paQ==
+     physical_name : .\TEST_MailshotWizard.wxt
+     type : 17
+   -
+     name : TEST_GlobalProcedures
+     identifier : 0x425285870098b137
+     internal_properties : CAAAAAgAAADPSyd7yPW97vjzQ+Sy2ao2+UZcTGE1nVW2mcjFuXklww33mWO2Qs8BmYB6Rs4C/vLaWg==
+     physical_name : .\TEST_GlobalProcedures.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Controlling Word.ana\WD Controlling Word.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAAuDXNGlByeKQYX6+DgTn6bRMO5vQDyHuyzMFKVVBB05tjxKC/VGi82AEqyjiqTH427miSLhA2pQGFZnT60W+Ujrh4s
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      GLOBAL
+      	gsDocData is string = CompleteDir(fExeDir())+"data.doc"
+      	gsDocMerge is string = CompleteDir(fExeDir())+"merge.doc"
+      	gsLetterType, gsLettreTypeSov are strings = CompleteDir(fExeDir())+"template.doc"
+      	gsDocEmpty is string =  CompleteDir(fExeDir())+"empty.doc"
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Controlling Word
+     identifier : 0x4ac3821b0251eda1
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
